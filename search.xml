@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/05/13/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>前言</title>
+    <url>/2021/05/13/%E5%89%8D%E8%A8%80/</url>
+    <content><![CDATA[<h2 id="写博客的原因"><a href="#写博客的原因" class="headerlink" title="写博客的原因"></a>写博客的原因</h2><p>&ensp;&ensp; 其实我很久之前就有尝试过在博客上面写了几篇关于tensorflow的文章了，是自己的实验记录但是太久了现在博客园账号密码都忘了（懒得找回），上次想写是在考试前想租一台服务器上面搭建WordPress来写但是后来种种原因放弃了，当时也看到hexo但是没有去考虑现在看来还是值得尝试的。由于这次写的包括但是不仅仅限于技术文章还是有些日常的小吐槽所以暂时不打算上线仅仅以本地作为尝试。另外写的东西以后自己看回来估计是另外一番感受了，因为我前一阵子看回来自己18年写的日记虽然不多仅仅几页但是看的出来自己的改变和进步。大概这些就是我写博客的理由吧。</p>
+<p><img src="/img/sc5.jpg" alt="avatar"></p>
+]]></content>
+  </entry>
+</search>
